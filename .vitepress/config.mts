@@ -33,7 +33,7 @@ export default defineConfigWithTheme<ThemeConfig>({
          { text: 'T Set', link: '/trainsets/tset' },
         ]
       }
-    ],
+    ],    
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/brenoepics/vitepress-carbon' }
