@@ -30,7 +30,7 @@ export default defineConfigWithTheme<ThemeConfig>({
          { text: 'H Set', link: '/trainsets/hset' },
          { text: 'K Set', link: '/trainsets/kset' },
          { text: 'M Set', link: '/trainsets/mset' },
-         { text: 'T Set', link: '/trainsets/tset' },
+         { text: 'T Set', link: '/trainsets/tset' }
         ]
       }
     ],    
