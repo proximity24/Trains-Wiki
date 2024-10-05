@@ -26,11 +26,11 @@ export default defineConfigWithTheme<ThemeConfig>({
         text: 'Train Sets',
         items: [
           { text: 'A Set', link: '/trainsets/aset' },
-          { text: 'B Set', link: '/trainsets/bset' }
-          { text: 'H Set', link: '/trainsets/hset' }
-          { text: 'K Set', link: '/trainsets/kset' }
-          { text: 'M Set', link: '/trainsets/mset' }
-          { text: 'T Set', link: '/trainsets/tset' }
+          { text: 'B Set', link: '/trainsets/bset' },
+          { text: 'H Set', link: '/trainsets/hset' },
+          { text: 'K Set', link: '/trainsets/kset' },
+          { text: 'M Set', link: '/trainsets/mset' },
+          { text: 'T Set', link: '/trainsets/tset' },
         ]
       }
     ],
