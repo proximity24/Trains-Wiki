@@ -23,10 +23,14 @@ export default defineConfigWithTheme<ThemeConfig>({
     
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Train Sets',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'A Set', link: '/trainsets/aset' },
+          { text: 'B Set', link: '/trainsets/bset' }
+          { text: 'H Set', link: '/trainsets/hset' }
+          { text: 'K Set', link: '/trainsets/kset' }
+          { text: 'M Set', link: '/trainsets/mset' }
+          { text: 'T Set', link: '/trainsets/tset' }
         ]
       }
     ],

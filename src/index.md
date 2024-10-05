@@ -7,9 +7,9 @@ hero:
   text: 
   tagline: For all the ones down under
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+    - theme: alt
+      text: Train sets
+      link: /trainsets
     - theme: alt
       text: API Examples
       link: /api-examples
