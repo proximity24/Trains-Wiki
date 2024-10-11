@@ -14,7 +14,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Trains', link: '/trains' }
     ],
 
     search: {
@@ -23,14 +23,12 @@ export default defineConfigWithTheme<ThemeConfig>({
     
     sidebar: [
       {
-        text: 'Train Sets',
+        text: 'Trains',
         items: [
-         { text: 'A Set', link: '/trainsets/aset' },
-         { text: 'B Set', link: '/trainsets/bset' },
-         { text: 'H Set', link: '/trainsets/hset' },
-         { text: 'K Set', link: '/trainsets/kset' },
-         { text: 'M Set', link: '/trainsets/mset' },
-         { text: 'T Set', link: '/trainsets/tset' }
+         { text: 'Train Models', link: '/trains/train-models' },
+         { text: 'B Set', link: '/trains/train-routes' },
+         { text: 'H Set', link: '/trains/train-stations' },
+         { text: 'K Set', link: '/trains/train-trackplan' },
         ]
       }
     ],    

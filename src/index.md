@@ -8,18 +8,19 @@ hero:
   tagline: For all the ones down under
   actions:
     - theme: alt
-      text: Train sets
-      link: /trainsets
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Trains
+      link: /trains 
 
 features:
-  - title: Train sets
-    details: K, T, M, H, A, B sets
-  - title: Train platforms
-    details: Platform arrangements and trackplans
-  - title: Train lines
-    details: Lines, services and interchanges
+  - title: Trains
+    details: All heavy rail in NSW
+  - title: Metro
+    details: Sydney's ever expanding metro network
+  - title: Buses
+    details: All bus routes in NSW
+  - title: Trams
+    details: All light rail in NSW
+  - title: Ferries
+    details: Ferry routes in NSW
 ---
 
