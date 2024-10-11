@@ -8,6 +8,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: "Sydney Trains Wiki",
   description: "For all the ones down under",
   srcDir: 'src',
+  cleanUrls: true,
+  ignoreDeadLinks: true,
   //base: '/vitepress-carbon-template/', if running on github-pages, set repository name here
 
   themeConfig: {
@@ -20,6 +22,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     search: {
       provider: 'local'
     },
+
+    logo: { src: '/favicon.ico' },
     
     sidebar: [
       {
@@ -36,7 +40,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],    
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/brenoepics/vitepress-carbon' }
+      { icon: 'github', link: 'https://github.com/proximity24/Trains-Wiki' }
     ]
   }
 })
