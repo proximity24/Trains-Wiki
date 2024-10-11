@@ -10,6 +10,9 @@ hero:
     - theme: alt
       text: Trains
       link: /trains 
+    - theme: alt
+      text: Metro
+      link: /metro
 
 features:
   - title: Trains
