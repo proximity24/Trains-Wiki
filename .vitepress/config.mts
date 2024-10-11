@@ -29,10 +29,11 @@ export default defineConfigWithTheme<ThemeConfig>({
       {
         text: 'Trains',
         items: [
+         { text: 'Overview', link: '/trains' },
          { text: 'Train Models', link: '/trains/train-models' },
-         { text: 'B Set', link: '/trains/train-routes' },
-         { text: 'H Set', link: '/trains/train-stations' },
-         { text: 'K Set', link: '/trains/train-trackplan' },
+         { text: 'Train Routes', link: '/trains/train-routes' },
+         { text: 'Train Stations', link: '/trains/train-stations' },
+         { text: 'Train Trackplan', link: '/trains/train-trackplan' },
         ]
       }
     ],    
