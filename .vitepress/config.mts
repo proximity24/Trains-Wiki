@@ -27,7 +27,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     logo: { src: '/favicon.ico' },
     
     sidebar: {
-      "/trains/": [
+      "/s-trains/": [
         {
           text: "Trains",
           items: [
@@ -39,7 +39,7 @@ export default defineConfigWithTheme<ThemeConfig>({
           ],
         },
       ],
-      "/metro/": [
+      "/s-metro/": [
         {
           text: "Metro",
           items: [
