@@ -55,6 +55,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/proximity24' },
       { icon: 'youtube', link: 'https://youtube.com/@proximity-24' }
-    ]
-  }
+    ],
+  },
+}
 })
