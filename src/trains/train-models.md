@@ -1,33 +1,33 @@
-# Suburban Rolling Stock
+## Suburban Rolling Stock
 
-## K sets (Goninan power and trailer cars)
+### K sets (Goninan power and trailer cars)
 
-## T sets (Tangaras)
+### T sets (Tangaras)
  
-## M sets (Millenium)
+### M sets (Millenium)
 
-## H sets (Oscar)
+### H sets (Oscar)
 
-## A sets (Waratah Series 1)
+### A sets (Waratah Series 1)
 
-## B sets (Waratah Series 2)
+### B sets (Waratah Series 2)
 
-# Intercity Rolling Stock
+## Intercity Rolling Stock
 
-## V sets  
+### V sets  
 
-## H sets (Oscar)
+### H sets (Oscar)
 
-## J sets (Hunter)
+### J sets (Hunter)
 
-## D sets (Mariyung)
+### D sets (Mariyung)
 
-## Endeavour railcars
+### Endeavour railcars
 
-# Regional Rolling Stock
+## Regional Rolling Stock
 
-## XPT sets
+### XPT sets
 
-## Xplorer sets
+### Xplorer sets
 
-## New Regional Trains
+### New Regional Trains
