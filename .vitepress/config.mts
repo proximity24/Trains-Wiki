@@ -16,8 +16,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Trains', link: '/trains' },
-      { text: 'Metro', link: '/metro' }
+      { text: 'Trains', link: '/s-trains' },
+      { text: 'Metro', link: '/s-metro' }
     ],
 
     search: {
